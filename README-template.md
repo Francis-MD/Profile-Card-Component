@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - Profile card component challenge
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -52,6 +52,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [Francis MD](https://www.your-site.com)
+- Linkedin - [Francis MD](https://www.linkedin.com/in/francismd/)
 - Frontend Mentor - [@Francis-MD](https://www.frontendmentor.io/profile/Francis-MD)
 - Twitter - [@Francis_MD_](https://twitter.com/Francis_MD_)
